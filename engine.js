@@ -88,7 +88,7 @@ var submitBtn = document.querySelector(".submitBtn");
    if (no4==="d") {
     nilaiAngka+=5;
   }
-   if (no5==="a") {
+   if (no5==="b") {
     nilaiAngka+=5;
   }
    if (no6==="b") {
