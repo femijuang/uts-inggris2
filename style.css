@@ -40,7 +40,7 @@ h2 {
 
 /*style uts.html dan uas.html..........................................*/
 .container {
-  width        : 800px;
+  width        : 95%;
   margin       : auto;
 }
 
@@ -115,3 +115,42 @@ input[type="text"] {
 }
 
 
+
+
+
+
+
+
+
+/*responsive configurations...................................*/
+@media(max-width:720px) {
+ .biodata {
+  float  : none;
+ }
+  body {
+  text-align   : ;
+  font-size    : 12px;
+ }
+
+ .logo {
+  float  : ;
+  width  : 100px;
+  height : 100px;
+ }
+}
+
+@media(max-width:320px) {
+ .biodata {
+  float        : none;
+ }
+  body {
+  text-align   : ;
+  font-size    : 12px;
+ }
+ .logo {
+  float  : none;
+  width  : 100px;
+  height : 100px;
+ }
+
+}
